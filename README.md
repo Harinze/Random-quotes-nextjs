@@ -23,11 +23,7 @@ To get started with the Random Quote Machine, follow these steps:
 ## Usage
 
 - Access the application and explore the quotes.
-- Click on your favorite quotes to share them on your social media accounts.
-
-## Contributing
-
-We welcome contributions! If you'd like to improve the Random Quote Machine, please check out our [contribution guidelines](CONTRIBUTING.md).
+- Click on new quotes to share them on your social media accounts.
 
 ## License
 
