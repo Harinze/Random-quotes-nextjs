@@ -6,6 +6,9 @@ An innovative Next.js application designed for sharing inspirational quotes acro
 
 This "Random Quote Machine" is developed to assist social media users in posting information from the application to various social media platforms.
 
+## Project link
+https://9fx7lp-3000.csb.app/
+
 ## Features
 
 - Discover and share inspirational quotes with ease.
